@@ -29,3 +29,30 @@ header {
     font-weight: 700;
     margin: auto;
 }
+
+/* BANNER */
+
+.banner {
+    color: #ffffff;
+    background-color: #db6363;
+    font-family: Poppins;
+    font-size: 3em;
+    font-weight: 300;
+    letter-spacing: 3.7px;
+    grid-column-start: 1;
+    grid-column-end: 7;
+    padding: 3%;
+    /* DELETE BORDER */
+    border-bottom: 2px solid black;
+}
+
+p,
+.banner-content {
+    max-width: 80%;
+    margin: auto;
+}
+
+img {
+    height: 5em;
+    margin-left: 75px;
+}
