@@ -99,3 +99,23 @@ img {
     height: 80px;
     margin: auto;
 }
+
+/* TESTIMONIALS */
+
+.testimonial {
+    color: #db6363;
+    background-color: #f0f0f0;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: italic;
+    letter-spacing: 3.7px;
+    display: grid;
+}
+
+.one {
+    grid-column: 1 / span 3;
+}
+
+.two {
+    grid-column: 4 / span 3;
+}
