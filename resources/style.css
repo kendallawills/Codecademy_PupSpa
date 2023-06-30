@@ -119,3 +119,16 @@ img {
 .two {
     grid-column: 4 / span 3;
 }
+
+/* FOOTER */
+
+footer {
+    color: #ffffff;
+    background-color: #db6363;
+    font-family: Poppins;
+    font-size: 16px;
+    letter-spacing: 0.4px;
+    display: grid;
+    grid-column-start: 1;
+    grid-column-end: 7;
+}
